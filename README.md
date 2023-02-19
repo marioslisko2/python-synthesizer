@@ -1,1 +1,3 @@
-# python-synthesizer
+#### Python synthesizer
+
+The seminar paper was created in a team of two members, Ivan Novačić and Mario Sliško. The topic of this seminar paper was the synthesis of musical instruments in Python that will play notes given by the user. It was necessary to study sound synthesis methods and develop a synthesizer prototype. We used an additive synthesis method to get a richer sound. We also added envelope elements (Attack, Decay, Sustain, Release). We have enabled the user to enter a note that is converted into a frequency and printed out for us. All the values ​​of the envelope elements and the duration of the entered note are also printed. We get a graphic representation of our note and finally play it. It can also be implemented in the program to save the played note in a .wav file.
